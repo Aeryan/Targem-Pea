@@ -1,0 +1,35 @@
+Olgu meil kaardipakk &n& kaardiga ning sealt tõmmatakse &n& kaart. 
+(Kaardipakis on 4 erinevat masti:  ruutu (♦), risti (♣), ärtu (♥) ja poti (♠). 
+Igas mastis on võrdne arv kaarte.) Olgu sündmus A="Kaart on must" ning sündmus B="Kaart on risti mastist". 
+Mitu elementaarsündmust kuulub sündmuste A ja B korrutisse?
+@
+52&n&1
+Õige vastus on: 13
+@@
+36&n&1
+Õige vastus on:
+@@
+376&n&4
+Õige vastus on: 6
+@@
+662&n&9
+Õige vastus on: 82
+@@@
+Millised järgmistest hulkadest on tavalise kuuetahulise täringu puhul soodsate võimaluste hulk,
+mis vastab sündmusele A="Viskel saadud silmade arv jagub &n&-ga"?
+@
+3
+Õige vastus on: {3,6}
+@@
+2
+Õige vastus on: {2,4,6}
+@@
+6
+Õige vastus on: {6}
+@@@
+Urnist, kus on kuulid numbritega 1, 2, ..., 48 tõmmatakse juhuslikult tagasipanekuta 6 kuuli.
+Olgu sündmus A="Valitud on kuulid 1, 2, 3, 4, 5, 6" ja sündmus B="Valitud on kuulid 12, 22, 7, 16, 41, 35".
+Kumba sündmuse A või B saamise tõenäosus on suurem?
+@
+Õige vastus on: Mõlemad tõenäosused on võrdsed.
+@@@
